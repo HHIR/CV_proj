@@ -8,7 +8,7 @@ For our final project in the Computer Vision course at Sapienza University in 20
 
 ![alt text](https://production-media.paperswithcode.com/datasets/CLEVR-Hans3.png)
 
-The CLEVR-Hans dataset is can challenge object detection models with its variety of objects such as [cubes, spheres, and cylinders] and each have diffrence in attributes like color, size, and shape. 
+The [CLEVR-Hans dataset](https://github.com/ml-research/CLEVR-Hans/tree/main) it can challenge object detection models with its variety of objects such as [cubes, spheres, and cylinders] and each have diffrence in attributes like color, size, and shape. 
 In this dataset each classes have specific characteristics:
 * the first class changes the color of a large grey cube during tests; 
 * the second varies the material of a small metal sphere in the test set; 
