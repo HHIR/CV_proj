@@ -5,6 +5,7 @@ For our final project in the Computer Vision course at Sapienza University in 20
 
 
 **Dataset:**
+
 ![alt text](https://production-media.paperswithcode.com/datasets/CLEVR-Hans3.png)
 
 The CLEVR-Hans dataset is can challenge object detection models with its variety of objects such as [cubes, spheres, and cylinders] and each have diffrence in attributes like color, size, and shape. 
