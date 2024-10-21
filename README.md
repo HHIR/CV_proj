@@ -1,4 +1,4 @@
-# Custom YOLOv8 for Object Detection
+# Evaluating object detection with custom YOLOv8 architecture for enhanced speed and accuracy
 
 This project, completed as part of the Computer Vision course at Sapienza University in 2024, modifies YOLOv8 for faster object detection using the CLEVR-Hans dataset. We reduced layers and simplified components like **C2f** and **SPPF** to achieve up to 47% faster inference speeds and a model size 88% smaller, with only a minimal drop in accuracy.
 
