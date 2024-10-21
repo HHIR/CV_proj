@@ -4,4 +4,4 @@ This project, completed as part of the Computer Vision course at Sapienza Univer
 
 The dataset contains objects like cubes, spheres, and cylinders, varying in size, color, and material, providing a challenging task for the model. Training was performed on **Google Colab Pro+** using an **A100 GPU**, and all experiments, models, and outputs were stored in Google Drive.
 
-For more details, you can read the full report [here](./x.pdf).
+For more details, you can read the full report [here](https://github.com/HHIR/CV_proj/blob/main/Report.pdf).
